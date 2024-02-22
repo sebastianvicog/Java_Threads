@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2da17343-3e31-45c4-af40-7a314dcbba73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/DataSourcesLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/NetworkConnectionsLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main7_notCheckException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main5_sleep_wakeUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main5_sleep_wakeUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,8 @@
     "Application.Main.executor": "Run",
     "Application.Main4.executor": "Run",
     "Application.Main5_sleep_wakeUp.executor": "Run",
+    "Application.Main6_waitExecutionCompleted.executor": "Run",
+    "Application.Main7_notCheckException.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
@@ -54,21 +56,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Java_Threads" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java_Threads" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +76,8 @@
       <workItem from="1708535565810" duration="4186000" />
       <workItem from="1708542716566" duration="552000" />
       <workItem from="1708616357734" duration="26000" />
-      <workItem from="1708616413975" duration="2943000" />
+      <workItem from="1708616413975" duration="3225000" />
+      <workItem from="1708626445652" duration="369000" />
     </task>
     <servers />
   </component>
