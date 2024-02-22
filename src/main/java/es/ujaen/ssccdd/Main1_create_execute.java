@@ -4,7 +4,7 @@ package es.ujaen.ssccdd;
 /**
  *  Main class. To create and to execute threads
  */
-public class Main1_createThreads {
+public class Main1_create_execute {
     public static void main(String[] args) {
         //Launch 10 threads that make the operation with a different number
         for (int i = 1; i <= 10; i++) {

@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 /**
  *  Main class. To get thread information
  */
-public class Main2_getThreadInformation {
+public class Main2_getInformation {
     public static void main(String[] args) {
         // Thread priority information
         System.out.printf("Minimum Priority: %s\n", Thread.MIN_PRIORITY);

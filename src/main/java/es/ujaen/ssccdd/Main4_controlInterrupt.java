@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 /**
  *  Main class. To control the interrupt of execution of thread
  */
-public class Main4_controlInterruptThread {
+public class Main4_controlInterrupt {
     public static void main(String[] args) {
         // Creates the Runnable object and the Thread to run it
         FileSearch searcher=new FileSearch("..//..//..","build.xml");

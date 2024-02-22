@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 /**
  *  Main class. To interrupt the execution of thread
  */
-public class Main3_interruptThreadExecution {
+public class Main3_interruptExecution {
     public static void main(String[] args) {
         // Launch the prime numbers generator
         Thread task=new PrimeGenerator();

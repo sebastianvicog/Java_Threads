@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2da17343-3e31-45c4-af40-7a314dcbba73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/FileSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main4_controlInterruptionThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main1_createThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main2_getThreadInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main3_interruptThreadExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/FileClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main5_sleep_wakeUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/FileSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/FileSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main1_createThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main1_create_execute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main2_getThreadInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main2_getInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main3_interruptThreadExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main3_interruptExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main4_controlInterruptThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main4_controlInterrupt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
       <workItem from="1708535565810" duration="4186000" />
       <workItem from="1708542716566" duration="552000" />
       <workItem from="1708616357734" duration="26000" />
-      <workItem from="1708616413975" duration="1621000" />
+      <workItem from="1708616413975" duration="2510000" />
     </task>
     <servers />
   </component>

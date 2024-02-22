@@ -40,6 +40,7 @@ public class FileSearch implements Runnable {
                 directoryProcess(file);
             } catch (InterruptedException e) {
                 System.out.printf("%s: The search has been interrupted",Thread.currentThread().getName());
+                cleanResources();
             }
         }
     }
