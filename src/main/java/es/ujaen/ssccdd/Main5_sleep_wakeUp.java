@@ -3,7 +3,7 @@ package es.ujaen.ssccdd;
 import java.util.concurrent.TimeUnit;
 
 /**
- *  Main class. To sleep and wake up the Threads
+ *  Main class. To sleep and wake up the Thread
  */
 public class Main5_sleep_wakeUp {
     public static void main(String[] args) {
