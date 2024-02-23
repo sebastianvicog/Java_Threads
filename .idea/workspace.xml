@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2da17343-3e31-45c4-af40-7a314dcbba73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main7_notCheckException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/Main8_localVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/SafeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/ujaen/ssccdd/UnsafeTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.Main5_sleep_wakeUp.executor": "Run",
     "Application.Main6_waitExecutionCompleted.executor": "Run",
     "Application.Main7_notCheckException.executor": "Run",
+    "Application.Main8_localVariables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
@@ -77,7 +78,8 @@
       <workItem from="1708542716566" duration="552000" />
       <workItem from="1708616357734" duration="26000" />
       <workItem from="1708616413975" duration="3225000" />
-      <workItem from="1708626445652" duration="369000" />
+      <workItem from="1708626445652" duration="756000" />
+      <workItem from="1708706360936" duration="800000" />
     </task>
     <servers />
   </component>
