@@ -1,6 +1,6 @@
-# Java Threads
+# Thread Management
 
-Lesson 1. Java Threads
+Lesson 1. Thread Management
 
 ## Author ✒️
 
